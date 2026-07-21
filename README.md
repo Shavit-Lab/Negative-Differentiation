@@ -15,7 +15,7 @@ Here we include the code for our paper [Negative Pre-activations Differentiate S
    pip install -r requirements.txt
    ```
 
-## Cite
+### Cite
 If you found our work useful, please cite our paper:
 ```
 @inproceedings{kong2026negative,
