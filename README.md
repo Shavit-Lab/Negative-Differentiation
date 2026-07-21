@@ -14,3 +14,13 @@ Here we include the code for our paper [Negative Pre-activations Differentiate S
    conda activate negative-diff
    pip install -r requirements.txt
    ```
+
+## Cite
+If you found our work useful, please cite our paper:
+```
+@inproceedings{kong2026negative,
+  title={Negative Pre-activations Differentiate Syntax},
+  author={Kong, Linghao and Ning, Angelina and Adler, Micah and Shavit, Nir N},
+  booktitle={The Fourteenth International Conference on Learning Representations}
+}
+```
