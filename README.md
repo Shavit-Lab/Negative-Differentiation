@@ -19,8 +19,11 @@ Here we include the code for our paper [Negative Pre-activations Differentiate S
 If you found our work useful, please cite our paper:
 ```
 @inproceedings{kong2026negative,
-  title={Negative Pre-activations Differentiate Syntax},
-  author={Kong, Linghao and Ning, Angelina and Adler, Micah and Shavit, Nir N},
-  booktitle={The Fourteenth International Conference on Learning Representations}
+  title={Negative pre-activations differentiate syntax},
+  author={Kong, Linghao and Ning, Angelina and Adler, Micah and Shavit, Nir},
+  booktitle={International Conference on Learning Representations},
+  volume={2026},
+  pages={154843--154867},
+  year={2026}
 }
 ```
